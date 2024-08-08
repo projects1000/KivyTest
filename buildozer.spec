@@ -274,6 +274,7 @@ android.allow_backup = True
 # (str) XML file for custom backup rules (see official auto backup documentation)
 # android.backup_rules =
 
+
 # (str) If you need to insert variables into your AndroidManifest.xml file,
 # you can do so with the manifestPlaceholders property.
 # This property takes a map of key-value pairs. (via a string)
